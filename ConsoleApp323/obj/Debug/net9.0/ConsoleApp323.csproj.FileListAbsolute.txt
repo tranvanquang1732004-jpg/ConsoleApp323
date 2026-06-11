@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\bin\Debug\net9.0\ConsoleApp323.exe
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\bin\Debug\net9.0\ConsoleApp323.deps.json
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\bin\Debug\net9.0\ConsoleApp323.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\bin\Debug\net9.0\ConsoleApp323.dll
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\bin\Debug\net9.0\ConsoleApp323.pdb
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.dll
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\refint\ConsoleApp323.dll
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.pdb
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ConsoleApp323.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\ConsoleApp323\ConsoleApp323\obj\Debug\net9.0\ref\ConsoleApp323.dll
